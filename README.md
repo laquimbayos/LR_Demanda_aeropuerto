@@ -1,4 +1,6 @@
 # LR_Demanda_aeropuerto
+Proyecto ejemplo de aplicación de regresión lienal al estimar con regresión multiple la demanda de carga en los aeropuestos de colombia.
+
 
 # Proyecto de Estimación de Demanda de Transporte Aéreo en Colombia
 
